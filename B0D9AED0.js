@@ -6,7 +6,7 @@ function myFunction() {
 }
 
 function myFunction2() { 
-    document.getElementById("mp4").src = "https://app.koofr.net/content/links/54370fb0-536e-48a0-423a-a6d2e654a529/files/get/03222022%20(2).m4a?path=%2F";
+    document.getElementById("mp4").src = "https://app.koofr.net/content/links/a988c81e-918b-4a73-78eb-a438a00b59ed/files/get/03222022%20(2).m4a?path=%2F";
     document.getElementById("video").load();
     document.getElementById("video").poster = "https://sites.google.com/site/zfirelight/2.png";
     document.getElementById("video").addEventListener('ended',myFunction3,false);
