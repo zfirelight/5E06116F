@@ -1,26 +1,26 @@
 function myFunction() { 
-    document.getElementById("mp4").src = "https://app.koofr.net/content/links/1c8e633b-dab3-4c4b-89a7-fe51ffab84bf/files/get/12062021%20(1).m4a?path=%2F";
+    document.getElementById("mp4").src = "https://the-eye.eu/public/Radio/Coast%20to%20Coast%20AM/Coast%20to%20Coast%20-%202021%20-%20All%20Live%20Shows/Coast%20to%20Coast%20-%202021-12-06%20-%20JFK%20Assassination%20Revelations%20%20UFOs%20%26%20Space%20Communications/Coast%20to%20Coast%20-%20Dec%2006%202021%20-%20Hour%201.opus";
     document.getElementById("video").load();
     document.getElementById("video").poster = "https://sites.google.com/site/zfirelight/1.png";
     document.getElementById("video").addEventListener('ended',myFunction2,false);
 }
 
 function myFunction2() { 
-    document.getElementById("mp4").src = "https://app.koofr.net/content/links/c7518e14-03d2-41c0-8cf0-d78d86a03970/files/get/12062021%20(2).m4a?path=%2F";
+    document.getElementById("mp4").src = "https://the-eye.eu/public/Radio/Coast%20to%20Coast%20AM/Coast%20to%20Coast%20-%202021%20-%20All%20Live%20Shows/Coast%20to%20Coast%20-%202021-12-06%20-%20JFK%20Assassination%20Revelations%20%20UFOs%20%26%20Space%20Communications/Coast%20to%20Coast%20-%20Dec%2006%202021%20-%20Hour%202.opus";
     document.getElementById("video").load();
     document.getElementById("video").poster = "https://sites.google.com/site/zfirelight/2.png";
     document.getElementById("video").addEventListener('ended',myFunction3,false);
 }
 
 function myFunction3() { 
-    document.getElementById("mp4").src = "https://app.koofr.net/content/links/e3afc46a-7743-4081-8f7e-7dedf5ae20fc/files/get/12062021%20(3).m4a?path=%2F";
+    document.getElementById("mp4").src = "https://the-eye.eu/public/Radio/Coast%20to%20Coast%20AM/Coast%20to%20Coast%20-%202021%20-%20All%20Live%20Shows/Coast%20to%20Coast%20-%202021-12-06%20-%20JFK%20Assassination%20Revelations%20%20UFOs%20%26%20Space%20Communications/Coast%20to%20Coast%20-%20Dec%2006%202021%20-%20Hour%203.opus";
     document.getElementById("video").load();
     document.getElementById("video").poster = "https://sites.google.com/site/zfirelight/3.png";
     document.getElementById("video").addEventListener('ended',myFunction4,false);
 }
 
 function myFunction4() { 
-    document.getElementById("mp4").src = "https://app.koofr.net/content/links/048a5a45-0e70-4b92-8fab-aa564fc7a96e/files/get/12062021%20(4).m4a?path=%2F";
+    document.getElementById("mp4").src = "https://the-eye.eu/public/Radio/Coast%20to%20Coast%20AM/Coast%20to%20Coast%20-%202021%20-%20All%20Live%20Shows/Coast%20to%20Coast%20-%202021-12-06%20-%20JFK%20Assassination%20Revelations%20%20UFOs%20%26%20Space%20Communications/Coast%20to%20Coast%20-%20Dec%2006%202021%20-%20Hour%204.opus";
     document.getElementById("video").load();
     document.getElementById("video").poster = "https://sites.google.com/site/zfirelight/4.png";
     document.getElementById("video").addEventListener('ended',myFunction5,false);
